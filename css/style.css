@@ -37,6 +37,7 @@ h2 {
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
+ 
 }
 
 h3 {
@@ -73,6 +74,8 @@ span {
 img {
   display: inline-block;
   margin: 0 40px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .wrapper {
@@ -105,8 +108,9 @@ img {
 
 #title-box {
   width: 252px;
-  height: 165px;
+  height: 150px;
   background: rgba(247,211,27,1);
   margin-left: 163px;
   padding-top: 25px;
+  font-size: small;
 }
